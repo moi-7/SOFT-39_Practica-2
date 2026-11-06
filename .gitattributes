@@ -1,0 +1,5 @@
+# Normalizar archivos de texto a LF en Git
+* text=auto
+
+# Mantener archivos de Windows con CRLF
+*.bat text eol=crlf

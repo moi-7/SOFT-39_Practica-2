@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.python-version
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Sphinx: archivos generados
+docs/build/
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Herramientas de desarrollo
+.pytest_cache/
+.ruff_cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/

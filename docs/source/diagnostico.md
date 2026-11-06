@@ -1,0 +1,3 @@
+# Diagnóstico de accesibilidad
+
+Contenido del diagnóstico...
