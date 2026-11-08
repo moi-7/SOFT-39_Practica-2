@@ -11,3 +11,5 @@ para la Práctica 2 de UX/UI.
    introduccion
    perfil-usuario
    diagnostico
+   demostracion
+   solucion

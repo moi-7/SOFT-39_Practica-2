@@ -29,6 +29,10 @@ language = "es"
 
 html_theme = "furo"
 
-html_title = "CCSS | Accesibilidad Web"
+html_title = "Práctica 2"
 
 html_static_path = ["_static"]
+
+html_theme_options = {
+    "navigation_with_keys": True,
+}
