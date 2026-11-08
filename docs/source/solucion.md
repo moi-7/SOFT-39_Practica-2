@@ -9,7 +9,7 @@ La Información personal del usuario en los videos se removió con el fin de pro
 El código muestra como añadir un color de fondo mientras el usuario navega con la tecla <code>TAB</code> en su teclado.
 
 ```css
-li.ui-selectlistbox-item.ui-corner-all:focus-visible {
+li.ui-selectlistbox-item:focus-visible {
     background-color: #dedede;
 }
 ```

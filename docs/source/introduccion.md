@@ -1,22 +1,57 @@
-# Introducción
+# 1. Introducción
 
-## Contexto
+## 1.1 Contexto
 
-Este proyecto analiza la accesibilidad de una
-interfaz digital de autogestión de planillas
-de la Caja Costarricense de Seguro Social.
+La presente práctica analiza la accesibilidad de la Oficina Virtual
+de la Caja Costarricense de Seguro Social (CCSS), específicamente
+en los procesos de navegación y selección de opciones.
 
-## Objetivo
+El análisis se enfoca en las barreras que pueden experimentar
+las personas con discapacidad motora al interactuar con
+componentes que requieren el uso del ratón.
 
-Identificar barreras de accesibilidad y proponer
-soluciones fundamentadas en WCAG 2.1.
+## 1.2 Objetivos
 
-## Alcance
+### Objetivo general
 
-El proyecto contempla:
+Evaluar y mejorar la accesibilidad de los componentes
+interactivos seleccionados, mediante la aplicación de los
+principios de accesibilidad WCAG 2.1.
 
-- Selección de perfil de usuario.
-- Identificación de barreras.
-- Propuesta de soluciones.
-- Implementación.
-- Validación mediante herramientas técnicas.
+### Objetivos específicos
+
+- Identificar barreras de accesibilidad relacionadas con
+  la navegación mediante teclado.
+- Analizar los problemas según los principios POUR.
+- Proponer soluciones que faciliten la interacción sin ratón.
+- Implementar indicadores visuales de foco y mecanismos
+  de selección mediante teclado.
+- Validar los cambios mediante herramientas y pruebas manuales.
+
+## 1.3 Alcance
+
+La intervención contempla dos componentes de la interfaz:
+
+1. Selección de perfil de usuario.
+2. Selección de opciones mediante botones de tipo radio.
+
+El trabajo se concentra en mejorar la navegación mediante
+teclado y la identificación visual del elemento enfocado.
+
+No contempla un rediseño integral de la plataforma ni
+modificaciones de sus funcionalidades de negocio.
+
+## 1.4 Interfaz seleccionada
+
+**Aplicación web:** Oficina Virtual CCSS
+
+**URL:** [https://aissfa.ccss.sa.cr/](https://aissfa.ccss.sa.cr/)
+
+**Perfil seleccionado:** Persona con discapacidad motora.
+
+**Tecnología de asistencia considerada:** Teclado físico
+y mecanismos de navegación mediante teclado.
+
+![Interfaz original de la Oficina Virtual CCSS](_static/images/inicio.png)
+
+*Figura 1. Interfaz original de selección de perfil.*
