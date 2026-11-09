@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.500
+En pantalla aparece una tabla de facturas con botones tipo radio de opción al inicio de cada fila.
+
+00:00:05.500 --> 00:00:10.000
+Al navegar con el teclado, no hay un indicador visual de foco que muestre qué botón está enfocado.
+
+00:00:10.000 --> 00:00:16.500
+La interacción resulta confusa: es necesario llegar primero al botón de opción inicial para poder recorrer los demás con las flechas del teclado.

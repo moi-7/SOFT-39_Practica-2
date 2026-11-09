@@ -51,7 +51,3 @@ modificaciones de sus funcionalidades de negocio.
 
 **Tecnología de asistencia considerada:** Teclado físico
 y mecanismos de navegación mediante teclado.
-
-![Interfaz original de la Oficina Virtual CCSS](_static/images/inicio.png)
-
-*Figura 1. Interfaz original de selección de perfil.*

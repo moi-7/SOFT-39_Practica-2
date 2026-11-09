@@ -33,6 +33,10 @@ html_title = "Práctica 2"
 
 html_static_path = ["_static"]
 
+html_css_files = ["css/custom.css"]
+
 html_theme_options = {
     "navigation_with_keys": True,
 }
+
+copyright = "2026, Práctica 2 - UX-UI"
