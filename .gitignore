@@ -11,6 +11,7 @@ venv/
 ENV/
 
 # Sphinx: archivos generados
+Sphinx
 docs/build/
 
 # Archivos temporales
